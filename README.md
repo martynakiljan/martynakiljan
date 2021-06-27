@@ -1,6 +1,6 @@
 ![myphoto](https://user-images.githubusercontent.com/59742201/108636404-51655580-7485-11eb-9c5f-1246d50827fd.png)
 
- :fire: junior front end developer_ :fire:
+ :fire: junior front end developer :fire:
 
 
 
