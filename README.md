@@ -10,7 +10,7 @@ What have I learned so far?
 
 :small_orange_diamond: I can style with **CSS**
 
-:small_orange_diamond: I know the basics of **JS**. I  keep learning, of course :)
+:small_orange_diamond: I know **JS**. I  keep learning, of course :)
 
 :small_orange_diamond: I can use **API**
 
@@ -21,9 +21,6 @@ What have I learned so far?
 :small_orange_diamond: I know the websitess must be compatible with **RWD**
 
 :small_orange_diamond: I use **NPM, WEBPACK**
-
-:small_orange_diamond: I started learning **REDUX**
-
 
 
 -----
