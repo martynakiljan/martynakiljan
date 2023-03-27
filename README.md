@@ -8,7 +8,7 @@ What have I learned so far?
 
 :small_orange_diamond: I know **HTML** well
 
-:small_orange_diamond: I can style with **CSS**
+:small_orange_diamond: I can style with **CSS**, **SASS""
 
 :small_orange_diamond: I know **JS**. I  keep learning, of course :)
 
