@@ -14,7 +14,7 @@ What have I learned so far?
 
 :small_orange_diamond: I can use **API**
 
-:small_orange_diamond: I started learning **REACT**. I like it very much and I want to deepen my knowledge.
+:small_orange_diamond: I started learning **REACT**. and **TYPE SCRIPT**  I like it very much and I want to deepen my knowledge.
 
 :small_orange_diamond: I made some simple websites with **BOOTSTRAP**
 
