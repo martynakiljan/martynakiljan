@@ -10,11 +10,11 @@ What have I learned so far?
 
 :small_orange_diamond: I can style with **CSS**, **SASS**
 
-:small_orange_diamond: I know **JS**. :)
+:small_orange_diamond: I know **JS**
 
 :small_orange_diamond: I can use **API**
 
-:small_orange_diamond: I started learning **REACT**. and **TYPE SCRIPT**  ^
+:small_orange_diamond: I started learning **REACT** and **TYPE SCRIPT**  
 
 :small_orange_diamond: I made some simple websites with **BOOTSTRAP**
 
