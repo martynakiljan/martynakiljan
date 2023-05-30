@@ -8,13 +8,13 @@ What have I learned so far?
 
 :small_orange_diamond: I know **HTML** well
 
-:small_orange_diamond: I can style with **CSS**, **SASS""
+:small_orange_diamond: I can style with **CSS**, **SASS**
 
-:small_orange_diamond: I know **JS**. I  keep learning, of course :)
+:small_orange_diamond: I know **JS**. :)
 
 :small_orange_diamond: I can use **API**
 
-:small_orange_diamond: I started learning **REACT**. and **TYPE SCRIPT**  I like it very much and I want to deepen my knowledge.
+:small_orange_diamond: I started learning **REACT**. and **TYPE SCRIPT**  ^
 
 :small_orange_diamond: I made some simple websites with **BOOTSTRAP**
 
