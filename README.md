@@ -14,11 +14,11 @@ What have I learned so far?
 
 :small_orange_diamond: I can use **API**
 
-:small_orange_diamond: I started learning **REACT** and **TYPE SCRIPT**  
+:small_orange_diamond: I know **REACT** and **TYPE SCRIPT**  
 
-:small_orange_diamond: I made some simple websites with **BOOTSTRAP**
+:small_orange_diamond: I made some  websites with **BOOTSTRAP**
 
-:small_orange_diamond: I know the websitess must be compatible with **RWD**
+:small_orange_diamond: I know the websites must be compatible with **RWD**
 
 :small_orange_diamond: I use **NPM, WEBPACK**
 
