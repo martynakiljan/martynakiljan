@@ -1,6 +1,9 @@
 ![myphoto](https://user-images.githubusercontent.com/59742201/108636404-51655580-7485-11eb-9c5f-1246d50827fd.png)
 
+ 
+ 
  :fire:  frontend developer :fire:
+
 
 
 
@@ -25,4 +28,4 @@ What have I learned so far?
 
 -----
 
- :books: :books: :books: :books: :books: MY PORTFOLIO : [click me]([https://martynakiljan.github.io/my_portfolio/](https://martynakiljan.github.io/new-portfolio-2024/))  :books: :books: :books: :books: :books: :books: :books: :books:
+ :books: :books: :books: :books: :books: MY PORTFOLIO : [click me](https://martynakiljan.github.io/new-portfolio-2024/)  :books: :books: :books: :books: :books: :books: :books: :books:
